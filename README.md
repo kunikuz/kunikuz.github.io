@@ -1,4 +1,4 @@
-### welcome to kunikuz.github.io
+### kunikuz.github.io
 ---
 my favorite stuff
 - music
